@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lorraine</h1>
-<h3 align="center">Welcome to my GitHub profile ! I am training to become a software developer. 💻 📱</h3>
 
-<div align="center">
-  <img height="200" src="https://cdn1.vogel.de/unsafe/800x0/smart/images.vogel.de/vogelonline/bdb/1286800/1286845/original.jpg"  />
-</div>
+![](pic.png)
 
-###
+<h3 align="center"> 💻  I am training to become a software developer.  📱</h3>
 
-###
 <h2 align="left">I code with :</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
