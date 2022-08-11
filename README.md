@@ -2,7 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Lorraine</h1>
 
-<h2 align="center"> 💻  I am training to become a software developer.  📱</h2>
+<h2 align="center">I am training to become a software developer.</h2>
+
+<p align="center">📚 I am currently in a training center located near Dieppe in France.</p>
+<p align="center">🌱 I’m currently learning JavaScript, React, ReactJS, ReactNative, Ajax, NodeJs, SQL</p>
+<p align="center">💚 Thank you CEPPIC !</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=LorraineLscr" height="150" alt="stats graph"  />
@@ -31,7 +35,7 @@
 
 ###
 
-<h3 align="left">Connect with me :</h3>
+<h3 align="left">📱 Social :</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/lorraine-lescour-09599b239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lorraine lescour" height="30" width="40" /></a>
 </p>
