@@ -1,4 +1,4 @@
-![](.png)
+![](gitProfile.png)
 
 <h1 align="center">Hi 👋, I'm Lorraine</h1>
 
