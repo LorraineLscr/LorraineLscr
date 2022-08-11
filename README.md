@@ -1,6 +1,6 @@
 ![](gitProfile.png)
 
-<h1 align="center">Hi 👋, I'm Lorraine</h1>
+<h1 align="center">Hi 👋, my name is Lorraine !</h1>
 
 ###
 <br>
@@ -12,7 +12,6 @@
 <p align="center">💚 Thank you <a href="https://www.ceppic.fr">CEPPIC</a> !</p>
 
 
-###
 <br>
 
 <div align="center">
@@ -48,4 +47,14 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/lorraine-lescour-09599b239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lorraine lescour" height="30" width="40" /></a>
 </p>
+
+<br>
+
+<h2 align="right">See you soon ! 👋</h2>
+
+
+
+
+
+
 
