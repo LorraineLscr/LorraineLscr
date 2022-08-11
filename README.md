@@ -1,8 +1,15 @@
+![](picwelcome.png)
+
 <h1 align="center">Hi 👋, I'm Lorraine</h1>
 
-![](pic.png)
-
 <h2 align="center"> 💻  I am training to become a software developer.  📱</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=LorraineLscr" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=LorraineLscr" height="150" alt="languages graph"  />
+</div>
+
+###
 
 <h3 align="left">I code with :</h3>
 <div align="left">
