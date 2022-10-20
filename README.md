@@ -8,7 +8,7 @@
 <h2 align="center">🚧 I am training to become a software developer. 🚧</h2>
 
 <p align="center">📚 I am currently in a training center located near Dieppe in France.</p>
-<p align="center">🌱 I’m currently learning JavaScript, React, ReactJS, ReactNative, Ajax, NodeJs, SQL</p>
+<p align="center">🌱 I’m currently learning JavaScript, NodeJs, React, ReactJS, ReactNative, Ajax, PHP, Symfony</p>
 <p align="center">💚 Thank you <a href="https://www.ceppic.fr">CEPPIC</a> !</p>
 
 
