@@ -8,9 +8,7 @@
 <h2 align="center">🚧 I am training to become a software developer. 🚧</h2>
 
 <p align="center">📚 I am currently in a training center located near Dieppe in France.</p>
-<p align="center">🌱 I’m currently learning JavaScript, NodeJs, React, ReactJS, ReactNative, Ajax, PHP, Symfony</p>
-<p align="center">💚 Thank you <a href="https://www.ceppic.fr">CEPPIC</a> !</p>
-
+<p align="center">🌱 I’m currently learning JavaScript, PHP, Symfony and xUnit Testing With Selenium C#</p>
 
 <br>
 
@@ -37,7 +35,7 @@
 
 <h3 align="left">Frameworks and Libraries : </h3>
 <div align="left">
-   <img src="https://symfony.com/logos/symfony_white_03.png" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Symfony, High Performance PHP Framework for Web Development" data-noaft="1" style="width: 40px; height: 50px; margin: 0px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="40" width="52" alt="symfony logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
