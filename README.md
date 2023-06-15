@@ -5,10 +5,10 @@
 ###
 <br>
 
-<h2 align="center">🚧 I am training to become a software developer. 🚧</h2>
+<h2 align="center">I am a web developer</h2>
 
-<p align="center">📚 I am currently in a training center located near Dieppe in France.</p>
-<p align="center">🌱 I’m currently learning JavaScript, PHP, Symfony and xUnit Testing With Selenium C#</p>
+<p align="center">📍 I am French.</p>
+<p align="center">🌱 Currently I code with Symfony.</p>
 
 <br>
 
